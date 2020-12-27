@@ -1,0 +1,23 @@
+{
+  "name": "try_react-bootstrap",
+  "version": "1.0.0",
+  "description": "[Getting Started](https://react-bootstrap.github.io/getting-started/introduction)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbz3/try_react-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbz3/try_react-bootstrap/issues"
+  },
+  "homepage": "https://github.com/gbz3/try_react-bootstrap#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
