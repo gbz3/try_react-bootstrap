@@ -22,3 +22,13 @@ $ mkdir src
 $ vi src/index.tsx
 $ npx webpack --mode production
 ```
+
+3. `react-bootstrap` の設定
+
+```bash
+$ npm install react-bootstrap bootstrap
+$ npm install -D css-loader mini-css-extract-plugin
+$ vi webpack.config.js
+$ vi src/index.tsx
+$ npx webpack --mode production
+```
