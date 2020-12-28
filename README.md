@@ -32,3 +32,12 @@ $ vi webpack.config.js
 $ vi src/index.tsx
 $ npx webpack --mode production
 ```
+
+4. `index.html` をビルド対象に追加
+
+```bash
+$ npm install -D html-webpack-plugin
+$ vi webpack.config.js
+$ vi src/index.html
+$ npx webpack --mode production
+```
